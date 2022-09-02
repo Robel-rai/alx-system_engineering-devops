@@ -13,3 +13,8 @@ I have tested and each of the following projects on my personal compuater and th
 	11. Directories
 	12. More Directories
 	13. Change Group
+At the second Submission date I have Tsted and completed the tasks.
+	14. Owner and group
+	15. Symbolic links
+	16. If only
+	17. Star wars
